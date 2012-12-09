@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Back Arrow.png</file>
+        <file>frontarrow.png</file>
+        <file>Gsearch.h</file>
+        <file>mylynx.h</file>
+        <file>network.h</file>
+    </qresource>
+</RCC>
